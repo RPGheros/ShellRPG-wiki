@@ -1,13 +1,20 @@
-# Terminal-Guide
+# Terminal Guide
 
-## Prinzip
-Die Shell bleibt sichtbar und nativ. Das Spiel legt Status- und Ereignisinformation darüber.
+## Start
 
-## Bestandteile
-- Media Layer (optional)
-- Statuszeile
-- Event-Log
-- Eingabe
+1. `ShellRPG-server` lokal starten
+2. `python -m shellrpg_client`
 
-## Fallbacks
-animated -> static -> ansi -> ascii -> text -> status_only
+## Nützliche Befehle
+- `look`
+- `inspect`
+- `walk east`
+- `walk route valmora-hain`
+- `map`
+- `inventory`
+- `market`
+- `journal`
+- `gather`
+- `hunt`
+- `explore`
+- `showcommands`

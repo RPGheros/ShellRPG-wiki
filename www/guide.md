@@ -1,13 +1,17 @@
-# WWW-Guide
+# WWW Guide
 
-`ShellRPG-www` ist der zweite Public Client.
+Der WWW-Client ist in Phase B ein vollwertiger zweiter Public Client.
 
-## Schwerpunkte
+## Panels
+- Status
 - Karte
 - Inventar
 - Markt
 - Journal
-- harmlose Review-Panels
+- Befehle
 
-## Grundsatz
-WWW ist komfortabler, aber nicht wahrer als der Terminal-Client.
+## Start
+
+- Server: `python -m shellrpg_server`
+- WWW: `python -m http.server 8080`
+- dann `http://127.0.0.1:8080/public/index.html`

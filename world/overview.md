@@ -1,10 +1,21 @@
-# Weltüberblick
+# World Overview
 
-ShellRPG spielt in einer frühmittelalterlich-mythischen Welt, deren Ordnung durch eine moralische Verletzung der Antiker beschädigt wurde.
+## Phase-B Startregion
 
-## Kerngedanken
-- Magie ist instabil
-- Dämonen gelangten in die Welt
-- Vampyrismus ist menschengebundener Fluchpfad
-- Relikte und Mechanismen der Antiker sind aktive Gefahrenquellen
-- Weltzyklen verändern die Lesbarkeit vergangener Wahrheiten
+### Graufurt-Osttor
+Flussnahes Stadttor mit Marktverkehr, Pilgerbewegung und guter Versorgung.
+
+### Kornmark-Handelsweg
+Sicherer, aber belebter Straßenraum durch die Kornmark-Auen.
+
+### Schwarzwurzelwaldrand
+Dunkler Übergang in den Wald, gut für Spuren und erste Erkundung.
+
+### Nebelmoor-Steg
+Feuchter, gefährlicher Pfad mit gesundheitlichem Risiko.
+
+### Valmora-Hain
+Waldelfisch geprägte Grenzstadt mit Naturgütern und Eisenrindenwaren.
+
+### Aschenwall-Vorwerk
+Verkohlte Vorfestung an der Aschensteppe, rauer Markt und hoher Grenzdruck.

@@ -1,15 +1,9 @@
 # ShellRPG Wiki
 
-Willkommen in der redigierten Wissens- und Bedienstruktur von ShellRPG.
+Willkommen im redigierten Wissensraum für den aktuellen **Phase-B Vertical Slice**.
 
-## Bereiche
-- Weltüberblick
-- Fraktionen
-- Klassen
-- Bestiary
-- Systeme
-- Terminal
-- WWW
-- Glossar
-- FAQ
-- redigierte Admin- und Architekturhinweise
+## Aktueller Slice
+- Startort: Graufurt-Osttor
+- weitere erreichbare Orte: Kornmark-Handelsweg, Schwarzwurzelwaldrand, Nebelmoor-Steg, Valmora-Hain, Aschenwall-Vorwerk
+- erste Aktionen: `look`, `inspect`, `walk`, `gather`, `hunt`, `explore`
+- Public Clients: Terminal und WWW

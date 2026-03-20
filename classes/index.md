@@ -1,20 +1,6 @@
 # Klassen
 
-## Kernlinien
-- Ritter
-- Krieger
-- Waldläufer
-- Jäger
-- Magier
-- Kleriker
-- Totenbeschwörer
-- Druide
-- Illusionist
-- Beschwörer
-- Dieb
-- Agent
-- Beastmaster
+## Aktueller Slice
+Der Demo-Charakter ist **Ander**, ein **Kleriker**.
 
-## Sonderstellung
-- Kleriker und Totenbeschwörer sind menschengebunden
-- Vampyrismus ist menschenexklusiver Fluchpfad
+Der Slice demonstriert damit die menschengebundene Rolle des Klerikers als ordnungs- und schutzorientierte Klasse.

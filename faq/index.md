@@ -1,7 +1,7 @@
 # FAQ
 
-## Warum zwei Clients?
-Weil ShellRPG sowohl shellnah als auch grafisch bedienbar sein soll, ohne die Serverautorität aufzubrechen.
+## Was ist in Phase B spielbar?
+Ein lokaler Vertical Slice mit Bewegung, Sicht, Markt, Inventar, Journal und mehreren Weltaktionen.
 
-## Warum keine vollständige Serverdoku?
-Weil der Server proprietär und sicherheitskritisch bleibt.
+## Brauche ich Internet?
+Nein. Der Slice läuft lokal.

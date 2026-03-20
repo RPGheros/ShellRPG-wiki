@@ -1,18 +1,13 @@
-# Wirtschaft
+# Economy
 
-ShellRPG verwendet eine serverautoritativ simulierte Wirtschaft.
+Der aktuelle Vertical Slice bildet eine kleine, aber echte Marktlogik ab.
 
-## Verbindliche Stadtregel
-Jede Stadt erhält:
-- pro Stadtstufe 1 NPC-Händler
-- pro Stadtstufe +4 aller Basisressourcen
+## Stadtregel
+Jede Stadt erhält pro Stadtstufe:
+- 1 NPC-Händler
+- +4 Basisressourcen
 
-## Preisbildung
-Preise reagieren u. a. auf:
-- Angebot/Nachfrage
-- Bedarf/Verfügbarkeit
-- Krieg/Frieden
-- Hunger/Seuchen
-- Transportdistanz
-- Marktmanipulation
-- Stadtstufe
+## Sichtbare Märkte im Slice
+- Graufurt
+- Valmora-Hain
+- Aschenwall

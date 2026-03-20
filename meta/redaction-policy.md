@@ -1,13 +1,3 @@
 # Redaction Policy
 
-## Öffentlich bzw. redigiert erlaubt
-- Weltwissen
-- Bedienung
-- harmlose Systemerklärungen
-- abstrahierte Architektur
-
-## Nicht erlaubt
-- sensitive Heuristiken
-- operative Sicherheitsdetails
-- rekonstruierbare Kernlogik
-- vollständige interne Review-Mechanik
+Phase B erweitert die Wiki um Start- und Bedienwissen, ohne private API-, Sicherheits- oder Betriebslogik offen zu legen.

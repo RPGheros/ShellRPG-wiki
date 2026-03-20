@@ -1,13 +1,12 @@
-# Karte und Fog-of-War
+# Map and Fog of War
 
-Die Welt ist tilebasiert, aber Route-Aufträge sind möglich.
+Phase B nutzt ein tilebasiertes Kartenmodell mit Route- und Richtungsbewegung.
 
-## Sichtstufen
-- sichtbar
-- frisch bekannt
-- veraltet bekannt
-- gerüchtehaft
-- unbekannt
+## Sichtzustände
+- visible
+- fresh
+- stale
+- rumoured
+- unknown
 
-## Grundsatz
-Der Client zeigt nie die vollständige Serverwahrheit.
+Die Public-Clients sehen nur den redigierten, charakterbezogenen Wissensstand.

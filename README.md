@@ -1,66 +1,18 @@
 # ShellRPG-wiki
 
 **Governance:** WIKI-REDACTED  
-**Sichtbarkeit:** redigiert  
-**Baseline-Version:** `0.0.1a`
+**Visibility:** redacted  
+**Version:** `v0.0.2`
 
-## Zweck
+Redigierte Dokumentation für den aktuellen **Phase-B Vertical Slice**.
 
-`ShellRPG-wiki` ist die redigierte Wissens-, Bedien- und Systemdokumentation für ShellRPG.
+## Enthalten
 
-Dieser Foundations-Stand enthält:
+- Welt- und Bediengrundlagen des Slice
+- Startregion und Städte des Vertical Slice
+- Befehlshandbuch für Terminal und WWW
+- redigierte Architektur- und Buildhinweise
 
-- Wiki-Struktur
-- Kanon- und Redaktionsrahmen
-- Welt-, Fraktions-, Klassen- und System-Stubs
-- Bedienhandbuch für Terminal und WWW
-- redigierte Architekturübersichten
-- Glossar- und FAQ-Grundlage
+## Redaktionsgrenze
 
-## Redaktionsgrundsatz
-
-Die Wiki erklärt:
-- Weltwissen
-- Bedienung
-- harmlose Systemsicht
-- abstrahierte Architektur
-
-Die Wiki erklärt **nicht**:
-- private Serverheuristiken
-- sensible Review- und Sicherheitsdetails
-- operative Recovery-Tiefen
-- vollständig rekonstruierbare Kernlogik
-
-## Struktur
-
-- `index.md`
-- `world/`
-- `factions/`
-- `classes/`
-- `bestiary/`
-- `systems/`
-- `terminal/`
-- `www/`
-- `admin-redacted/`
-- `glossary/`
-- `faq/`
-- `meta/`
-
-## Revisions- und Versionsregel
-
-Reine Fixes erhöhen die Versionsnummer nicht.
-
-## Nächste empfohlene Phase
-
-- erste vollständige Fraktionsseiten
-- Startklassen-Artikel
-- Startregion-Atlas
-- Terminal- und WWW-Bedienpfade
-- redigierte Wirtschafts- und Kartenartikel
-
-## Wichtige Dateien
-
-- `shellrpg.manifest.toml`
-- `index.md`
-- `meta/redaction-policy.md`
-- `meta/wiki-styleguide.md`
+Diese Wiki beschreibt **Spieler- und Designerwissen**, aber keine sensitiven Serverdetails, Anti-Cheat-Heuristiken oder operative Betriebsinterna.
