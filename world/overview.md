@@ -1,21 +1,24 @@
-# World Overview
+# Weltüberblick — Slice-Region
 
-## Phase-B Startregion
+Der Phase-C-Slice umfasst eine kleine Grenzregion zwischen **Graufurt**, **Valmora-Hain** und **Aschenwall**.
 
-### Graufurt-Osttor
-Flussnahes Stadttor mit Marktverkehr, Pilgerbewegung und guter Versorgung.
+## Leitspannung
 
-### Kornmark-Handelsweg
-Sicherer, aber belebter Straßenraum durch die Kornmark-Auen.
+- Graufurt will Versorgung, Kontrolle und Zoll
+- Valmora schützt Wald und Grenzen vor Übernutzung
+- Aschenwall fordert Holz, Erz und härtere Versorgungslinien
 
-### Schwarzwurzelwaldrand
-Dunkler Übergang in den Wald, gut für Spuren und erste Erkundung.
+## Wichtige Orte
 
-### Nebelmoor-Steg
-Feuchter, gefährlicher Pfad mit gesundheitlichem Risiko.
-
-### Valmora-Hain
-Waldelfisch geprägte Grenzstadt mit Naturgütern und Eisenrindenwaren.
-
-### Aschenwall-Vorwerk
-Verkohlte Vorfestung an der Aschensteppe, rauer Markt und hoher Grenzdruck.
+- Graufurt-Osttor
+- Kornmark-Handelsweg
+- Alte Zollbrücke
+- Schwarzwurzelwaldrand
+- Wurzelwart-Furt
+- Nebelmoor-Steg
+- Verlassener Schreinhof
+- Glutschurfbruch
+- Aschenwall-Vorwerk
+- Valmora-Hain
+- Alte Schachtmine
+- Wächterhügel

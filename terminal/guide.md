@@ -1,20 +1,24 @@
-# Terminal Guide
+# Terminal-Guide
 
 ## Start
 
-1. `ShellRPG-server` lokal starten
-2. `python -m shellrpg_client`
+```bash
+python -m shellrpg_client
+```
 
-## Nützliche Befehle
-- `look`
-- `inspect`
-- `walk east`
-- `walk route valmora-hain`
-- `map`
-- `inventory`
-- `market`
-- `journal`
-- `gather`
-- `hunt`
+## Live-Status
+
+Der Terminal-Client pollt den Server live während laufender Aktionen wie `hunt`, `gather` und `explore`.
+
+## Wichtige Befehle
+
+- `hunt N`
+- `hunt 1,2`
+- `gather wood`
+- `gather gems`
 - `explore`
-- `showcommands`
+- `attack` / `guard` / `dodge`
+- `cast soultrap`
+- `read chronicle_graufurt`
+- `book next`
+- `lang en` / `lang de`

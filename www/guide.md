@@ -1,17 +1,25 @@
-# WWW Guide
-
-Der WWW-Client ist in Phase B ein vollwertiger zweiter Public Client.
-
-## Panels
-- Status
-- Karte
-- Inventar
-- Markt
-- Journal
-- Befehle
+# WWW-Guide
 
 ## Start
 
-- Server: `python -m shellrpg_server`
-- WWW: `python -m http.server 8080`
-- dann `http://127.0.0.1:8080/public/index.html`
+```bash
+python -m http.server 8080
+```
+
+Dann im Browser:
+
+`http://127.0.0.1:8080/public/index.html`
+
+## Oberfläche
+
+- Status inkl. Reaktionsfenster
+- Medienbild/GIF pro Tile oder Encounter
+- Karte mit FOW, POIs und Ressourcen
+- Inventar und Ausrüstung
+- Markt
+- Quests / Buffs / Journal
+- sichtbare Befehle
+
+## Sprache
+
+DE/EN lassen sich über die Buttons umschalten.

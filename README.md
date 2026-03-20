@@ -1,18 +1,16 @@
 # ShellRPG-wiki
 
-**Governance:** WIKI-REDACTED  
-**Visibility:** redacted  
-**Version:** `v0.0.2`
+**Governance:** `WIKI-REDACTED`  
+**Release:** `v0.3.0`
 
-Redigierte Dokumentation für den aktuellen **Phase-B Vertical Slice**.
+## Rolle
+Redigierte Wissens- und Systemdokumentation zu Welt, Bedienung und Phase-D-Systemen.
 
-## Enthalten
-
-- Welt- und Bediengrundlagen des Slice
-- Startregion und Städte des Vertical Slice
-- Befehlshandbuch für Terminal und WWW
-- redigierte Architektur- und Buildhinweise
-
-## Redaktionsgrenze
-
-Diese Wiki beschreibt **Spieler- und Designerwissen**, aber keine sensitiven Serverdetails, Anti-Cheat-Heuristiken oder operative Betriebsinterna.
+## Neu in Phase D
+- Crafting / Socketing / Enchanting / Seelenstein-Schmiede
+- schwarzer Kubus als Easteregg-Tile und Dialogobjekt
+- 4096×4096 Chunk-Weltmodell
+- 10 zusätzliche Biome
+- 20 zusätzliche Monsterklassen
+- Städtebau-Designpaket
+- Untertanen- und Milizdesignpaket

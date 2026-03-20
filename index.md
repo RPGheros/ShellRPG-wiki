@@ -1,9 +1,24 @@
-# ShellRPG Wiki
+# ShellRPG Wiki — Phase D Slice
 
-Willkommen im redigierten Wissensraum für den aktuellen **Phase-B Vertical Slice**.
+ShellRPG befindet sich in einer Phase, in der der autoritative Spielkern bereits:
+- Kampf
+- Jagd
+- Sammeln
+- Erkundung
+- Crafting
+- Händlerinteraktion
+- Edelsteinsockel
+- Seelensteinmagie
+- Fog-of-War
+- Chunk-Weltkarte
+- Kubus-Dialog
 
-## Aktueller Slice
-- Startort: Graufurt-Osttor
-- weitere erreichbare Orte: Kornmark-Handelsweg, Schwarzwurzelwaldrand, Nebelmoor-Steg, Valmora-Hain, Aschenwall-Vorwerk
-- erste Aktionen: `look`, `inspect`, `walk`, `gather`, `hunt`, `explore`
-- Public Clients: Terminal und WWW
+trägt.
+
+Siehe außerdem:
+- `systems/crafting.md`
+- `systems/combat.md`
+- `systems/citybuilding.md`
+- `systems/subordinates.md`
+- `systems/militia.md`
+- `world/map.md`
