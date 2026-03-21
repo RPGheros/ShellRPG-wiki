@@ -1,16 +1,18 @@
-# ShellRPG-wiki
 
-**Governance:** `WIKI-REDACTED`  
-**Release:** `v0.3.0`
+# ShellRPG-wiki · v0.4.0
 
-## Rolle
-Redigierte Wissens- und Systemdokumentation zu Welt, Bedienung und Phase-D-Systemen.
+**Governance:** WIKI-REDACTED  
+**Phase:** E
 
-## Neu in Phase D
-- Crafting / Socketing / Enchanting / Seelenstein-Schmiede
-- schwarzer Kubus als Easteregg-Tile und Dialogobjekt
-- 4096×4096 Chunk-Weltmodell
-- 10 zusätzliche Biome
-- 20 zusätzliche Monsterklassen
-- Städtebau-Designpaket
-- Untertanen- und Milizdesignpaket
+Diese redigierte Wiki dokumentiert:
+- Stadtgründung
+- Gouverneur / 5 Generäle
+- Miliz- und Garnisonslogik
+- Tile-Buildings
+- Auto-Battle
+- überarbeitete Befehlssyntax ohne Unterstriche
+- Standalone-Client-Modell
+
+## Redaktionsgrenze
+Spiel- und Designerwissen: ja  
+private Server-Sicherheitsdetails: nein

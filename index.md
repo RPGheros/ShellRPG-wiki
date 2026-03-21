@@ -1,24 +1,12 @@
-# ShellRPG Wiki — Phase D Slice
 
-ShellRPG befindet sich in einer Phase, in der der autoritative Spielkern bereits:
-- Kampf
-- Jagd
-- Sammeln
-- Erkundung
-- Crafting
-- Händlerinteraktion
-- Edelsteinsockel
-- Seelensteinmagie
-- Fog-of-War
-- Chunk-Weltkarte
-- Kubus-Dialog
+# ShellRPG Wiki — Phase E Slice
 
-trägt.
-
-Siehe außerdem:
-- `systems/crafting.md`
-- `systems/combat.md`
-- `systems/citybuilding.md`
-- `systems/subordinates.md`
-- `systems/militia.md`
-- `world/map.md`
+## Neue Systeme in Phase E
+- echte Stadtgründung
+- Gouverneur als erster Untertan
+- bis zu 5 Generäle
+- Miliz- und Garnisonslogik
+- Tile-Buildings
+- überarbeitetes Kampf- und Auto-Battle-System
+- Standalone-Client-Modell
+- überarbeitete WWW-Ansicht mit Asset-Browser

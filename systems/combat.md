@@ -1,21 +1,9 @@
-# Kampf — Phase D
 
-## Modell
-- Welt in Ticks
-- Kampf in Runden mit Reaktionsfenstern
+# Kampf — Phase E
 
-## Entscheidungen
-- `attack`
-- `guard`
-- `dodge`
-- `cast soultrap`
-- Scroll-basierte Einwegzauber
-
-## Resolver-Grundlagen
-- Leveldifferenz
-- Rassen- und Klassenbezug
-- Nahkampf/Fernkampf/Magie
-- Waffe vs. Rüstung
-- Intelligenz vs. Weisheit
-- Elementmatrix
-- Widerstände
+Die Phase-E-Revision verbindet:
+- Hybridkampf mit Reaktionsfenstern
+- Auto-Battle-Profile
+- Race-/Klassenbonus
+- Element- und Widerstandslogik
+- Socketing-/Enchanting-/Soulforge-Affixe
