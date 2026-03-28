@@ -1,0 +1,8 @@
+artifact_name = "ShellRPG-wiki"
+governance_layer = "WIKI-REDACTED"
+visibility = "redacted"
+version = "v0.7.6"
+artifact_role = "player and designer safe documentation"
+release_policy = "fixes_do_not_bump_version"
+publicly_releasable = true
+redaction_required = true

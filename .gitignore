@@ -1,0 +1,58 @@
+# =============================================
+# ShellRPG-wiki .gitignore
+# =============================================
+
+# --- OpenAI / Codex / Agent-Dateien ---
+.codex/
+**/.codex/
+
+# --- Build / generierte Nicht-Source-Dateien ---
+.build/
+site/
+public/
+out/
+.cache/
+.tmp/
+tmp/
+*.tmp
+*.cache
+*.lock
+
+# --- Dokumentations-Generatoren ---
+.mintlify/
+.docusaurus/
+.vitepress/cache/
+.vitepress/dist/
+
+# --- Python / Node Tooling ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+
+# --- Logs / lokale Zustände ---
+logs/
+*.log
+
+# --- Environment / Secrets ---
+.env
+.env.*
+!.env.example
+secrets/
+
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Niemals ausschließen: Inhalte und Quellen ---
+!docs/
+!src/
+!assets/
+!images/
+!media/
