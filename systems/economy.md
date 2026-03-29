@@ -11,3 +11,10 @@ Jede Stadt erhält pro Stadtstufe:
 - Graufurt
 - Valmora-Hain
 - Aschenwall
+
+## Redigierte Ausbauachsen
+
+- starke Fraktions- und Splitteroekologie darf kuenftig regionale Maerkte,
+  Jagd, Spawns und Rohstofffluesse mitpraegen
+- Spezialressourcen wie `Infernit` werden als spaetere Fraktions- und
+  Craftingachsen vorbereitet

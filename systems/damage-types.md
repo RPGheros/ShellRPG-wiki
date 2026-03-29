@@ -9,6 +9,17 @@ Diese Seite dokumentiert die freigegebenen zusätzlichen Schadensarten und ihre 
 - Seele / Schatten / Illusion
 - Gift / Fluch
 
+## Redigierte physische Familien
+
+- Klingenschaden
+- Wurfwaffenschaden
+- Stosswaffenschaden
+- Hiebwaffenschaden
+- Schwungwaffenschaden
+
+Diese Familien sollen spaeter oeffentlich lesbar mit Blocken,
+Defensivbuffs und Materialwirkungen zusammenspielen.
+
 ## Statusnahe Typen
 - Blutung
 - Korrosion

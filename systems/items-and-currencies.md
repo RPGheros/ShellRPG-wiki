@@ -39,3 +39,10 @@ Im Slice gelten Edelsteine zunächst als Craftingmaterialien und werden später 
 - Lore-Bücher
 - Fähigkeitsbücher
 - Einweg-Schriftrollen
+
+## Kuenftige Ausbauachsen
+
+- breitere Materialsets fuer Waffen und Ruestungen
+- fraktions- und speziesspezifische Itemlinien
+- Spezialressourcen wie `Infernit`
+- sechs Ringslots pro Charakter, drei pro Hand

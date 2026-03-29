@@ -43,6 +43,16 @@ Then open:
 http://127.0.0.1:8090/
 ```
 
+Current redacted canon highlights:
+- `Monster` is a distinct faction; `Hive` is treated as a parasitic monster
+  subfaction with ork and dwarf splitters
+- wildlife is a dedicated NPC faction with prey/predator separation and
+  tile-bound migration
+- factions and species may gain their own class, recipe, enchanting, and
+  crafting traditions
+- `Infernit`, material weapon families, and six ring slots are part of the
+  visible expansion roadmap
+
 ## 4. Feedback & Contribution
 
 Feedback should call out missing cross-links, unclear terms, or editorial inconsistencies.
