@@ -36,3 +36,16 @@ Tile-Milieu tragen.
   daraus ebenfalls redigiert abgeleitet werden.
 - Diese Hinweise bleiben bewusst public-safe und leaken keine Seeds,
   Anti-Cheat-Schwellen oder internen Triggermechaniken.
+
+## Oeffentliche Stadthinweise
+
+Stadttiles und Stadtansichten duerfen jetzt zusaetzlich einen redigierten
+`Stadthinweis` tragen.
+
+- Der Stadthinweis ist ein public-safe Verdachts- oder Spannungsmarker fuer
+  den oeffentlichen Kartenvertrag.
+- Er nutzt dieselbe redigierte Begriffsbasis wie Tile-Milieus, Fraktionsrefs
+  und Relationsachsen.
+- Persistierte Stadthinweise werden serverseitig als redigierte Alerts und
+  Notizen gefuehrt, ohne interne Diagnose-, Spawn- oder Triggerlogik zu
+  leaken.
