@@ -23,6 +23,8 @@ Sie soll:
   Craftingtraditionen besitzen
 - `Infernit`, Materialwaffenfamilien und sechs Ringslots gehoeren zur
   redigiert erklaerbaren Ausbauplanung
+- redigierte Fraktions-, Spezies- und Overlay-Begriffe folgen jetzt einer
+  festeren kanonischen Katalogbasis statt losem Mischgebrauch
 
 ## Redaktionsgrenze
 
