@@ -16,6 +16,7 @@ Alternativ kann der schlanke Wrapper `./shell.sh` genutzt werden.
 ## Oberfläche
 
 - Status inkl. Reaktionsfenster
+- Servermatrix-/Gateway-Diagnostik ueber denselben same-origin WWW-Pfad
 - Medienbild/GIF pro Tile oder Encounter
 - Karte mit FOW, POIs und Ressourcen
 - Inventar und Ausrüstung
@@ -26,6 +27,9 @@ Alternativ kann der schlanke Wrapper `./shell.sh` genutzt werden.
 ## Gateway- und Asset-Pfade
 
 - `/api/*` bleibt der same-origin Proxy zum privaten `ShellRPG-server`
+- `/api/matrix/health` wird im Browser als additive Diagnosequelle fuer den
+  `Servermatrix`-Panelpfad konsumiert; wenn der Endpunkt fehlt, bleibt die
+  restliche WWW-Oberflaeche bewusst funktionsfaehig
 - `/asset/*` liefert WWW-Bildpfade mit GitHub-backed CDN-Prioritaet,
   dynv6-Fallback und lokaler Workspace-Sicherung
 - lokale Secret- und Asset-Origin-Listen bleiben betriebsintern und werden
