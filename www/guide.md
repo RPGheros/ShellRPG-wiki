@@ -30,6 +30,10 @@ Alternativ kann der schlanke Wrapper `./shell.sh` genutzt werden.
 - `/api/matrix/health` wird im Browser als additive Diagnosequelle fuer den
   `Servermatrix`-Panelpfad konsumiert; wenn der Endpunkt fehlt, bleibt die
   restliche WWW-Oberflaeche bewusst funktionsfaehig
+- derselbe Panelpfad zeigt Character-Konflikte jetzt pro Figur verdichtet
+  an, inklusive Merge-Gruppen fuer Wissensstand, Fortschritt und Inventar
+- pro Konflikt gibt es dort jetzt einen aufklappbaren Drilldown mit
+  Feldlisten sowie kurzen Vergleichs- und Importhinweisen
 - `/asset/*` liefert WWW-Bildpfade mit GitHub-backed CDN-Prioritaet,
   dynv6-Fallback und lokaler Workspace-Sicherung
 - lokale Secret- und Asset-Origin-Listen bleiben betriebsintern und werden
