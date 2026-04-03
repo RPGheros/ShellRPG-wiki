@@ -71,3 +71,40 @@ Monster umfassen redigiert unter anderem:
 - Khal'Zharr-Linien
 - verdorbene Tiles koennen zusaetzlich Untote, Zombies und Monstergefahren
   hervorbringen
+
+Zu den konstruierten Monsterlinien gehoeren redigiert ausserdem:
+- Golems als magisch beschworene Konstrukte
+- Homunkuli als lebendig-mechanische Konstruktlinie
+- Automata als stark programmierte, robotisch wirkende Konstruktlinie
+- Gargoyles als vampyrisch-/daemonisch geformte Monsterlinie
+
+## Titanen und Giganten
+
+Der redigierte Arbeitsstand trennt jetzt zwischen:
+- Titanen als ur- oder kosmogonisch wirkenden Grosswesen
+- Giganten als spaetere kolossale oder weltbedrohliche Grosswesen
+
+Dieselbe Trennung ist bewusst projektintern und redigiert, nicht als
+universelle Mythologiebehauptung zu lesen. Beide Linien werden zusaetzlich in
+Land- und Meerkoerper geschichtet.
+
+Redigiert wichtige Titanbeispiele sind:
+- Land: Behemoth, Typhon, Apophis, Fenrir, Nidhogg
+- Meer: Leviathan, Rahab, Lotan, Jormungandr
+
+Redigiert wichtige Gigantenbeispiele sind:
+- Land: Ahool, Lindwurm, Basilisk, Wyrm, Godzilla
+- Meer: Hydra, Seeschlange, Nessie, Ogopogo, Cadborosaurus
+
+## Haus- und Schutzgeister
+
+Haus-, Schutz- und Ortsgeister sollen eher als wiederkehrende
+haushalts- oder ortsgebundene NPCs wirken als als starre Plotmarker.
+Redigiert wichtige Linien sind:
+- Brownie als hilfreicher Hausgeist
+- Kobold als Haus-, Werkstatt- oder Grubengeist
+- Klabautermann als schiffs- oder hafennahe Helfer-/Necklinie
+- Hausgeist als allgemeine haushaltsgebundene Geistlinie
+- Schutzgeist als behuetende Familien- oder Ortslinie
+- Waechtergeist als ausdruecklicher Orts- oder Heiligtumshueter
+- Poltergeist als stoerende, werfende und familienunruhige Geistlinie

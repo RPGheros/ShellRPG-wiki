@@ -41,6 +41,12 @@ Redigiert sichtbar sind derzeit vor allem:
 - Geisterlinien
 - Elementarlinien
 - Hive-Linien
+- konstruierte Monsterlinien wie Golems, Homunkuli, Automata und
+  Gargoyles
+
+Unterhalb derselben Monsterlinie duerfen redigiert auch kollektive
+Konstruktkoerper wie `Homunkuli` und `Automata` erscheinen, ohne mit
+Daemonen, Orks oder normaler Wildlife-Logik zu verschmelzen.
 
 ## Khal'Zharr
 
@@ -49,6 +55,11 @@ Darunter koennen weitere innere Koerper stehen, etwa:
 - Basishive
 - Ork-Splitter
 - Zwerg-Splitter
+
+Redigiert ist dieselbe Linie jetzt auch als erster echter Runtime-Koerper
+verankert: Oeffentliche Karten- und Stadthinweise duerfen dieselbe
+Khal'Zharr-Koerperlinie kuenftig ueber konsistente Hinweis- und
+Beziehungsachsen statt ueber wechselnde Freitextbegriffe andeuten.
 
 ## Natur
 
@@ -85,6 +96,11 @@ koennen.
 Neben Fraktions-, Kult- und Gildenstaedten duerfen redigiert auch neutrale,
 multiethnische Kommunen bestehen. Sie dienen als gemischte Alltags-, Markt-,
 Puffer- oder Fluchtraeume zwischen staerkeren Fraktionskoerpern.
+
+Einige Zivilisationskoerper tragen kuenftig zudem eine staerkere
+Hauptstadtlogik: Niederlagen sollen redigiert nicht sofort zur Ausloeschung
+fuehren, sondern eher zu Protektorat, Besatzung und spaeterer moeglicher
+Autonomierueckgewinnung.
 
 ## Weitere Familienlinien
 

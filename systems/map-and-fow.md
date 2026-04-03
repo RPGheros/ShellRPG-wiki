@@ -49,3 +49,12 @@ Stadttiles und Stadtansichten duerfen jetzt zusaetzlich einen redigierten
 - Persistierte Stadthinweise werden serverseitig als redigierte Alerts und
   Notizen gefuehrt, ohne interne Diagnose-, Spawn- oder Triggerlogik zu
   leaken.
+- Derselbe Pfad fuehrt jetzt auch einen ersten persistierten urbanen
+  Verdachtspool. Karten- und Stadtansichten duerfen daraus eine
+  redigierte Stadtdiagnose und dieselben oeffentlichen Fraktions-,
+  Hinweis- und Relationsreferenzen ableiten, ohne private Serverlogik zu
+  offenbaren.
+- Derselbe Pfad darf jetzt auch eine redigierte Parasitenlage fuer eine
+  Siedlung andeuten. Oeffentliche Stadtdiagnosen duerfen dabei Hinweise auf
+  Spezialpruefungsbedarf oder Gegenmassnahmen tragen, ohne konkrete
+  Befallslogik, Schwellen oder interne Trigger zu verraten.
