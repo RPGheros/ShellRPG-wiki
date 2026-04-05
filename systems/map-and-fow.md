@@ -54,6 +54,20 @@ Stadttiles und Stadtansichten duerfen jetzt zusaetzlich einen redigierten
   redigierte Stadtdiagnose und dieselben oeffentlichen Fraktions-,
   Hinweis- und Relationsreferenzen ableiten, ohne private Serverlogik zu
   offenbaren.
+- Derselbe Pfad fuehrt jetzt auch einen ersten redigierten
+  Siedlungsgouvernancevertrag. Oeffentliche Karten- und Stadtansichten
+  duerfen damit Leitkoerper, Entwicklungsstufe, Protektoratsstatus,
+  Autonomie-Rueckgewinn und vorbereitete Hauptstadt-/Annexions-/
+  Besatzungsregeln zeigen, ohne interne Kriegs- oder Besatzungslogik zu
+  leaken.
+- Derselbe Gouvernancepfad darf diese Stadtlage jetzt auch als
+  serverseitig fortgeschriebene Besatzungs- und Autonomiedynamik zeigen:
+  Protektorate, Besatzungsdruck und Rueckgewinnung duerfen redigiert
+  sichtbar sein, ohne konkrete interne Kriegsheuristiken offenzulegen.
+- Derselbe Entwicklungsstufenpfad darf jetzt ausserdem redigierte
+  `Stadtfeldgrenzen` liefern. Fruehe Stufen duerfen dabei Diagnose-,
+  Hinweis- oder Diplomatiefelder in Stadtansichten bewusst ausduennen,
+  statt browser- oder clientseitig immer dieselbe Feldtiefe anzunehmen.
 - Derselbe Pfad darf jetzt auch eine redigierte Parasitenlage fuer eine
   Siedlung andeuten. Oeffentliche Stadtdiagnosen duerfen dabei Hinweise auf
   Spezialpruefungsbedarf oder Gegenmassnahmen tragen, ohne konkrete

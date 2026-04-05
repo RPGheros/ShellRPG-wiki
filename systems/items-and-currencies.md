@@ -44,5 +44,19 @@ Im Slice gelten Edelsteine zunächst als Craftingmaterialien und werden später 
 
 - breitere Materialsets fuer Waffen und Ruestungen
 - fraktions- und speziesspezifische Itemlinien
-- Spezialressourcen wie `Infernit`
+- Spezialressourcen wie `Infernit`, `Magnetit`, `Hainharz`,
+  `Frostsalz` und `Moorbernstein`
 - sechs Ringslots pro Charakter, drei pro Hand
+
+## Erste Spezialressourcen-Achsen
+
+- `Infernitklinge` als infernitgebundene Waffenlinie
+- `Magnetitlinse` als regionale Sicht-/Sturmkomponente
+- `Hainharzbogen` als harzgebundene Bogenlinie
+- `Frostsalztrank` als frostgebundener Versorgungsgegenstand
+- `Moorbernstein-Amulett` als Markt-/Gluecks-/Sichtachse
+
+Dieselben Linien folgen bereits redigierten Materialaliasen wie
+`craft --item sword --material infernit` oder
+`craft --item charm --material amber`, ohne interne Rezeptheuristiken
+oeffentlich freizulegen.

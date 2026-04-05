@@ -97,6 +97,17 @@ Neben Fraktions-, Kult- und Gildenstaedten duerfen redigiert auch neutrale,
 multiethnische Kommunen bestehen. Sie dienen als gemischte Alltags-, Markt-,
 Puffer- oder Fluchtraeume zwischen staerkeren Fraktionskoerpern.
 
+Dieselbe Linie ist jetzt redigiert auch als echter Stadttraeger lesbar:
+oeffentlich sichere Stadtansichten duerfen `Neutrale Kommunen` explizit als
+Traeger zeigen und dazu eine knappe Material- und Ruestkammerbasis nennen,
+ohne interne Governance- oder Rezeptpfade offenzulegen.
+
+Redigiert darf daneben jetzt auch die `Haendlergilde` als eigener
+multiethnischer Stadt- und Handelskoerper erscheinen. Wenn dieselbe sichere
+Serveransicht sie fuehrt, duerfen Stadt- und NPC-Pfade dazu jetzt auch
+`Regionale Knappheit`, `Bauprofil` und `Spezialressourcen` nennen, ohne
+interne Preis- oder Produktionsheuristiken offenzulegen.
+
 Einige Zivilisationskoerper tragen kuenftig zudem eine staerkere
 Hauptstadtlogik: Niederlagen sollen redigiert nicht sofort zur Ausloeschung
 fuehren, sondern eher zu Protektorat, Besatzung und spaeterer moeglicher
