@@ -27,6 +27,10 @@ Alternativ kann der schlanke Wrapper `./shell.sh` genutzt werden.
 ## Gateway- und Asset-Pfade
 
 - `/api/*` bleibt der same-origin Proxy zum privaten `ShellRPG-server`
+- `/api/social/catalog` wird im Browser als redigierter Glossarvertrag
+  konsumiert; das `Glossar`-Panel zeigt Rollenfamilien, Magieschulen,
+  Stealth-/Support-Archetypen und den zweiten Attributring, ohne eigene
+  WWW-Terminologie zu erzeugen
 - `/api/matrix/health` wird im Browser als additive Diagnosequelle fuer den
   `Servermatrix`-Panelpfad konsumiert; wenn der Endpunkt fehlt, bleibt die
   restliche WWW-Oberflaeche bewusst funktionsfaehig

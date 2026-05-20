@@ -41,3 +41,13 @@ Matrixzustand.
   Drilldown mit Preferred-, Fallback- und Gemerged-Preview, Gewinnerseite,
   Merge-Modus und priorisierten Delta-Gruenden
 - `matrix peers` fokussiert nur die Peer-Diagnose
+
+## Glossar
+
+- `catalog` zeigt das redigierte Kampf- und Attributglossar aus
+  `/api/social/catalog`
+- `catalog combat` fokussiert Rollenfamilien, Magieschulen und
+  Stealth-/Support-Archetypen
+- `catalog attributes` fokussiert Primaerring, zweiten Attributring,
+  Runtime-Bruecken und Legacy-Begriffe
+- `social catalog` bleibt als servernaher Alias fuer denselben Vertrag

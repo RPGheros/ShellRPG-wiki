@@ -1,6 +1,6 @@
-# ShellRPG-wiki · v0.7.6
+# ShellRPG-wiki · v0.8.0
 
-**Governance:** WIKI-REDACTED  
+**Governance:** WIKI-REDACTED
 **Stand:** redigierter Workspace-Begleitstand
 
 Diese redigierte Wiki dokumentiert oeffentlich sichere ShellRPG-Systeme,
@@ -29,8 +29,16 @@ Sie soll:
   Craftingtraditionen besitzen
 - `Infernit`, Materialwaffenfamilien und sechs Ringslots gehoeren zur
   redigiert erklaerbaren Ausbauplanung
+- der redigierte Kampf- und Attributglossarpfad fuehrt jetzt auch
+  ShellRPG-Rollenfamilien, Magieschulen, Stealth-/Support-Archetypen und
+  einen expliziten zweiten Attributring; `Arkana` darf dabei bewusst
+  sowohl als Magieschule als auch als Attributbegriff auftreten, aber in
+  getrennten Glossargruppen
 - redigierte Fraktions-, Spezies- und Overlay-Begriffe folgen jetzt einer
   festeren kanonischen Katalogbasis statt losem Mischgebrauch
+- Fraktionsueberblick und Bestiary fuehren jetzt den aktuellen
+  registry-gebundenen Stand fuer Voelker, Titanen und Giganten mit
+  redigierter Land-/Meer-Schichtung
 - der redigierte Terminal-Guide dokumentiert jetzt auch den lokalen
   `matrix`-Befehlsbaum fuer Matrix-/Peer-Diagnostik im oeffentlichen
   Terminal-Client
@@ -90,5 +98,5 @@ Sie soll:
 
 ## Redaktionsgrenze
 
-Spiel- und redigiertes Designerwissen: ja  
+Spiel- und redigiertes Designerwissen: ja
 private Server-, Sicherheits- und Missbrauchsdetails: nein

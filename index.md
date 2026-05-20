@@ -1,4 +1,4 @@
-# ShellRPG Wiki — Redigierter Workspace-Stand v0.7.6
+# ShellRPG Wiki — Redigierter Workspace-Stand v0.8.0
 
 ## Zweck
 

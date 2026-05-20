@@ -88,13 +88,22 @@ Dieselbe Trennung ist bewusst projektintern und redigiert, nicht als
 universelle Mythologiebehauptung zu lesen. Beide Linien werden zusaetzlich in
 Land- und Meerkoerper geschichtet.
 
-Redigiert wichtige Titanbeispiele sind:
-- Land: Behemoth, Typhon, Apophis, Fenrir, Nidhogg
-- Meer: Leviathan, Rahab, Lotan, Jormungandr
+Der aktuelle registry-gebundene Titanenstand umfasst:
+- Land: Gavaevodata, Bennu, Behemoth, Typhon, Echidna, Apophis, Hundun,
+  Fenrir, Nidhogg, Azi Dahaka, Weltenvogel, Chaosdrache, Vritra,
+  Illuyankas
+- Meer: Bahamut, Cipactli, Leviathan, Tiamat, Rahab, Tannin, Lotan,
+  Jormungandr, Weltschlange, Weltenschildkroete, Weltenfisch
 
-Redigiert wichtige Gigantenbeispiele sind:
-- Land: Ahool, Lindwurm, Basilisk, Wyrm, Godzilla
-- Meer: Hydra, Seeschlange, Nessie, Ogopogo, Cadborosaurus
+Der aktuelle registry-gebundene Gigantenstand umfasst:
+- Land: Asura, Phoenix, Anqa, Wyvern, Kokatrice, Mushussu, Donnervogel,
+  Simurgh, Roc, Ziz, Ahool, Lindwurm, Basilisk, Amphiptere, Wyrm, Ugallu,
+  Serpopard, Gashadokuro, Garmr, Taotie, Tzitzimimeh, Camazotz,
+  Xiuhcoatl, Nian, Godzilla, King Kong, Mapinguari, Kongamato,
+  Mokele-mbembe, Mongolischer Todeswurm, Yamata no Orochi, Iblis,
+  Shaitan, Daddschal
+- Meer: Kraken, Charybdis, Hydra, Seeschlange, Seeungeheuer, Nessie,
+  Ogopogo, Champ, Morag, Morgawr, Cadborosaurus, Kaliya
 
 ## Haus- und Schutzgeister
 

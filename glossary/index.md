@@ -9,3 +9,11 @@
 - Spezialressource
 - Kernzone
 - Randzone
+- Frontkaempfer
+- Zauberwirker
+- Spurenjaeger
+- Bannertraeger
+- Willenskraft
+- Wahrnehmung
+- List
+- Arkana

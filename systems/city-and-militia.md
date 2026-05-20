@@ -5,7 +5,7 @@
 Mit `city found <name>` gründet der Spieler eine eigene Stadt auf dem aktuellen Tile.
 
 ## Gouverneur
-Sobald eine Stadt gegründet wird, entsteht automatisch ein Gouverneur-NPC als Untertan.  
+Sobald eine Stadt gegründet wird, entsteht automatisch ein Gouverneur-NPC als Untertan.
 Der Gouverneur:
 - organisiert Steuerfluss aus der Bevölkerung
 - verwaltet Grundlogistik

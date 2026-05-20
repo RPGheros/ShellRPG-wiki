@@ -52,3 +52,30 @@ Glossar gebunden statt lose gemischt. Redigiert wichtig ist dabei:
 - `Koerperkraft` steht fuer die getrennte Konstitutionslinie
 - weitere Begriffe wie `Geschicklichkeit`, `Intelligenz`, `Weisheit`,
   `Charisma`, `Magie`, `Vitalitaet` und `Energie` bleiben anschlussfaehig
+
+## Gestaffelte ShellRPG-Gruppen
+
+Der erste ShellRPG-seitige Folgeslice fuehrt dieselbe Glossarbasis jetzt
+kontrolliert weiter ueber:
+- Rollenfamilien `Frontkaempfer`, `Plaenkler`, `Zauberwirker`,
+  `Versorger`
+- Magieschulen `Licht`, `Schatten`, `Natur`, `Arkana`
+- Stealth-Archetypen `Infiltrator`, `Spurenjaeger`
+- Support-Archetypen `Heiler`, `Bannertraeger`
+
+Diese Gruppen ersetzen noch keine spaeteren Unterklassen oder Vollroster.
+Sie bilden zuerst den kleineren redigierten Zwischenkoerper fuer kuenftige
+Skill-, Spell-, NPC- und UI-Pfade.
+
+## Zweiter Attributring
+
+Nach `Disziplin` und `Moral` ist jetzt ein kleiner zweiter Attributring
+gesetzt:
+- `Willenskraft`
+- `Wahrnehmung`
+- `List`
+- `Arkana`
+
+`Arkana` darf redigiert damit doppelt auftauchen: einmal als Magieschule und
+einmal als Attributbegriff. Beide liegen absichtlich in getrennten
+Glossargruppen statt in einem vermischten Sammelbegriff.

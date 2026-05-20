@@ -21,6 +21,32 @@ oeffentliche Notizen sowie erste sichtbare Beziehungsachsen fuer Allianz,
 Rivalitaet und Neutralitaet, ohne interne Bewertungs- oder
 Simulationsschwellen preiszugeben.
 
+## Registry-gebundene Voelker
+
+Der aktuelle redigierte Einzel-Spezieskoerper-Stand umfasst:
+- Menschen
+- Zwerge
+- Halblinge
+- Orks
+- Blutorks
+- Waldelfen
+- Dunkelelfen
+- Hochelfen
+- Dryaden
+- Pflanzenwesen
+- Katzenwesen
+- Echsenwesen
+- Hautwechsler
+- Nagas
+- Baumwesen
+- Selkies
+- Feen
+- Loveland-Froesche
+- Sleestacks
+- Daemonen
+- Sirenen
+- Vampyre
+
 ## Monster
 
 `Monster` ist eine eigene Fraktion und nicht bloess ein Sammelbegriff fuer

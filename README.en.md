@@ -7,7 +7,7 @@
 ║  /_/\\   U N R O L L E D   S C R O L L                            /\_\     ║
 ║  \_\/____________________________________________________________\/_/     ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-# ShellRPG-wiki · v0.7.6
+# ShellRPG-wiki · v0.8.0
 
 ## 1. Description
 
@@ -57,6 +57,13 @@ Current redacted canon highlights:
   crafting traditions
 - `Infernit`, material weapon families, and six ring slots are part of the
   visible expansion roadmap
+- the redacted combat and attribute glossary path now also carries
+  ShellRPG role families, magic schools, stealth/support archetypes, and an
+  explicit second attribute ring; `Arcana` may therefore intentionally
+  appear both as a magic school and as an attribute term, but in separate
+  glossary groups
+- the faction overview and bestiary now list the current registry-bound
+  people, titan, and gigant roster with a redacted land/sea split
 - the redacted terminal guide now also documents the local `matrix` command
   tree for matrix/peer diagnostics in the public terminal client
 - the same redacted terminal path now also describes the compact `Mx:` HUD
