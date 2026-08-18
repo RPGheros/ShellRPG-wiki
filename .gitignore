@@ -16,7 +16,6 @@ out/
 tmp/
 *.tmp
 *.cache
-*.lock
 
 # --- Dokumentations-Generatoren ---
 .mintlify/
