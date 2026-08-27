@@ -6,3 +6,9 @@ artifact_role = "player and designer safe documentation"
 release_policy = "fixes_do_not_bump_version"
 publicly_releasable = true
 redaction_required = true
+
+primary_www_endpoint = "https://www.shellrpg.tld"
+public_base_url = "https://wiki.shellrpg.tld"
+integration_mode = "subdomain-linked"
+cdn_usage = "forbidden"
+shared_browser_session_required = false
