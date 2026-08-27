@@ -1,5 +1,15 @@
 # ShellRPG Wiki — Redigierter Workspace-Stand v0.8.0
 
+## Zentraler Einstieg
+
+- Hauptsystem: `https://www.shellrpg.tld`
+- Wiki: `https://wiki.shellrpg.tld`
+- Infrastrukturgrenze: [Wiki-Integration in die zentrale WWW-Infrastruktur](meta/infrastructure-integration.md)
+
+Das Wiki ist mit WWW verbunden, bleibt aber eine getrennte redigierte
+Dokumentationsanwendung. Es verwendet den WWW-CDN-Endpunkt nicht für eigene
+Inhalte oder Assets.
+
 ## Zweck
 
 Diese Wiki ist die redigierte Begleitdokumentation zum aktuellen
@@ -19,9 +29,9 @@ ShellRPG-Workspace.
 - die interne Combat-, Befalls- und Public-Hinweis-Planung wurde weiter
   konkretisiert; redigierte Detailseiten sollen mit den ersten real
   implementierten Gameplay-Slices nachgezogen werden
-- die oeffentliche Web-/Assetlieferung folgt jetzt einem redigierten
-  Asset-Proxy-Pfad mit GitHub-backed CDN-Primärquelle, dynv6-Fallback und
-  lokaler Workspace-Sicherung
+- die oeffentliche WWW-Bildlieferung folgt einem redigierten Asset-Proxy-Pfad
+  mit GitHub-backed CDN-Primärquelle und lokaler Workspace-Sicherung; dieser
+  CDN-Pfad gehört ausschließlich WWW und wird vom Wiki nicht als Host genutzt
 - der redigierte Bestand wurde in den aktiven Wiki-Root konsolidiert
 - der aktuelle Kanon unterscheidet Monster, Hive, Wildlife, Natur und
   Daemonen klarer als zuvor
